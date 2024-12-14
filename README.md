@@ -1,4 +1,4 @@
-# GraduatedCylinder
+GraduatedCylinder
 
 - A typed implementation of measurable dimensions for .NET 
   (i.e. Length, Speed, Acceleration, Jerk). 
